@@ -1,0 +1,16 @@
+{
+    "name": "StationXYZ.Player",
+    "rootNamespace": "StationXYZ.Player",
+    "references": [
+        "StationXYZ.Core",
+        "StationXYZ.WorldGrid"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

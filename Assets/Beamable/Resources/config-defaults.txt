@@ -1,0 +1,8 @@
+{
+    "cid": "1508674490992675",
+    "alias": "brewedink",
+    "pid": "DE_1508674490992676",
+    "platform": "https://api.beamable.com",
+    "socket": "https://api.beamable.com",
+    "containerPrefix": ""
+}

@@ -1,0 +1,16 @@
+{
+    "name": "StationXYZ.LevelGeneration",
+    "rootNamespace": "StationXYZ.LevelGeneration",
+    "references": [
+        "Unity.BrewkedInk.WFC.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

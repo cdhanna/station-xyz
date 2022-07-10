@@ -1,0 +1,21 @@
+{
+    "name": "StationXYZ.Core",
+    "rootNamespace": "StationXYZ.Core",
+    "references": [
+        "Unity.Beamable",
+        "Beamable.Platform",
+        "Beamable.Service",
+        "Unity.Beamable.Runtime.Common"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "GameEventGenerator.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

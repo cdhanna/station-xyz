@@ -1,0 +1,16 @@
+{
+    "name": "StationXYZ.WorldGrid",
+    "rootNamespace": "StationXYZ.WorldGrid",
+    "references": [
+        "StationXYZ.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
